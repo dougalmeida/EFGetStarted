@@ -371,3 +371,5 @@ MigrationBackup/
 Migrations/BloggingContextModelSnapshot.cs
 Migrations/20211201234823_InitialCreate.Designer.cs
 Migrations/20211201234823_InitialCreate.cs
+Migrations/20211202024030_InitialCreate.cs
+Migrations/20211202024030_InitialCreate.Designer.cs
