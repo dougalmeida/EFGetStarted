@@ -1,6 +1,6 @@
 # EFGetStarted
 
-Get Started dotnet ef core 6.0 run on Ubuntu with raspberry pi 4.
+Get Started dotnet ef core 6.0 run on raspberry pi 4 with Ubuntu 20.4.
 
 ## Usefull to have on .bashrc file
 
